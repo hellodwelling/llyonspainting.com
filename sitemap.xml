@@ -46,13 +46,6 @@
     </url>
 
     <url>
-        <loc>https://llyonspainting.com/service-Kitchen-Painting-and-Cabinet-Refinishing</loc>
-        <lastmod>2022-06-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://llyonspainting.com/service-Exterior-Painting</loc>
         <lastmod>2022-06-20</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,6 +54,13 @@
 
     <url>
         <loc>https://llyonspainting.com/service-Interior-Painting</loc>
+        <lastmod>2022-06-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://llyonspainting.com/service-Kitchen-Painting-and-Cabinet-Refinishing</loc>
         <lastmod>2022-06-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
